@@ -13,6 +13,6 @@ However this webapp's content is not well organized and styled, as shown below:
 
 ==========================================================
 
-The future work is using the .html files in the folder "HTML Version", the furniture company management system, which is well designed and styled, as shown below:
+The future work is using the .html files in the folder "HTML Version", the furniture company management system, which is well designed and styled, as shown below. This version uses HTML5, CSS, JavaScript, BootStrp, Jquery, etc.
 
 ![ScreenShot](https://github.com/lzzsmile/E-business-Management-Portal/blob/master/image/version.png)
